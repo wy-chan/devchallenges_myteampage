@@ -47,7 +47,7 @@ I learnt to create a page based on the given design.
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML
-- CSS, flexbox
+- CSS, flexbox, grid
 
 ## Features
 
